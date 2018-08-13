@@ -1,0 +1,8 @@
+title: qgg
+description: Statistical tools for Quantitative Genetic Analyses
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
